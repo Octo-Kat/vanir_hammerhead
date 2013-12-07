@@ -45,6 +45,10 @@ modules.builtin
 /Module.markers
 /Module.symvers
 
+# KControl modules directory (make deb-pkg)
+#
+/kcontrol_gpu_msm/
+
 #
 # Debian directory (make deb-pkg)
 #
